@@ -1,0 +1,9 @@
+table{
+    width: 100;
+}
+th , td{
+    border: 2px solid chartreuse;
+    padding: 70;
+}
+h2
+color: red;
